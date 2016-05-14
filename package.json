@@ -1,0 +1,22 @@
+{
+  "name": "njax-builder",
+  "version": "0.0.1",
+  "description": "A tool for parsing data structures and building other structures",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/schematical/njax-builder.git"
+  },
+  "keywords": [
+    "njax"
+  ],
+  "author": "Matt L <mlea@schematical.com> (http://schematical.com/)",
+  "license": "Apache-2.0",
+  "bugs": {
+    "url": "https://github.com/schematical/njax-builder/issues"
+  },
+  "homepage": "https://github.com/schematical/njax-builder#readme"
+}
